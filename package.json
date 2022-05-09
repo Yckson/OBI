@@ -1,0 +1,23 @@
+{
+  "name": "obi",
+  "version": "1.0.0",
+  "description": "Estudando para a OBI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs 2021/baralho.js < 2021/entrada.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yckson/OBI.git"
+  },
+  "author": "William Gabriel Yckson Araujo Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yckson/OBI/issues"
+  },
+  "homepage": "https://github.com/Yckson/OBI#readme",
+  "dependencies": {
+    "scanf-printf-obi": "^1.0.0"
+  }
+}
